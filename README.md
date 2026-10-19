@@ -3,13 +3,13 @@
 Install [Aube](https://aube.sh) with Homebrew:
 
 ```sh
-brew install aubepkg/aube/aube
+brew install aubepkg/tap/aube
 ```
 
 Homebrew will add this tap automatically. To add it explicitly first:
 
 ```sh
-brew tap aubepkg/aube
+brew tap aubepkg/tap
 brew install aube
 ```
 
